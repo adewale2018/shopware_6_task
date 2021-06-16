@@ -1,0 +1,28 @@
+{
+  "name": "shopware_6_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adewale2018/shopware_6_task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adewale2018/shopware_6_task/issues"
+  },
+  "homepage": "https://github.com/adewale2018/shopware_6_task#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "browser-sync-webpack-plugin": "^2.3.0",
+    "laravel-mix": "^6.0.20",
+    "resolve-url-loader": "^3.1.3",
+    "sass": "^1.35.1",
+    "sass-loader": "^12.1.0"
+  }
+}
